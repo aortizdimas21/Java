@@ -1,4 +1,4 @@
-# Computer Science 111
+# Intro Comp Sci Final Project
 
 Inspired by my sister who has a large book collection (600+) and is constantly forgetting whether she already
 owns a book so she ends up buying the same book twice (it happens quite often). User must submit a txt file called
