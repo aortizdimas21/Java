@@ -1,9 +1,7 @@
 /*
-Alison Ortiz Dimas
-May 9th, 2021
-Collaborative: Program that takes parameters from user and uses them to simulate interactions like those
+Alison Ortiz Dimas 
+Program that takes parameters from user and uses them to simulate interactions like those
 in Blade Runner
-
  */
 
 /*
